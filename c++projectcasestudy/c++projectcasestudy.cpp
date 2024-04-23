@@ -3,7 +3,6 @@
 #include <string>
 #include<algorithm>
 using namespace std;
-
 class ProductManager {
 private:
     vector<string> Name;
